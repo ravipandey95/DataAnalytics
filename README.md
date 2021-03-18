@@ -1,2 +1,2 @@
 # DataScience-
-Data science projects for basic under standing 
+Data science projects for basic understanding 
