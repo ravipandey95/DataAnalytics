@@ -1,5 +1,5 @@
-# DataScience-
-Data science projects.
+# Data Science Projects
+We will see different types of Data sets and their analysis.
 
 1. [SF salaries](https://www.kaggle.com/kaggle/sf-salaries)
 
