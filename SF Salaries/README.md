@@ -6,3 +6,6 @@
 
      Average change in BasePay over years              Average change in OvertimePay over years
 ![](download.png)         ![](OvertimePay.png)
+
+     Average change in TotalaPayBenefits over years
+![](TotalPayBenefits.png)
