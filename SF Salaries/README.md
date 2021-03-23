@@ -5,3 +5,5 @@
 2.How have salaries changed over time between different groups of people?
 
 
+Average change in BasePay over years
+![](download.png)
