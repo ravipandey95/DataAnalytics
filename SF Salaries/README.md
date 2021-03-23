@@ -2,7 +2,7 @@
 
 1.How is the average salary has changed over years?
 
-2.How have salaries changed over time between different groups of people?
+2.Comparing the TotalPay with each Job Title, then grouping the Job Title and get the max, min, and avg of TotalPay.
 
      Average change in BasePay over years
 ![](download.png)
